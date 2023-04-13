@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7824380.svg)](https://doi.org/10.5281/zenodo.7824380)
+
 # scReadSim source code
 The source code for the reproduction of results in "scReadSim: a single-cell RNA-seq and ATAC-seq read simulator".
 
