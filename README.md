@@ -1,6 +1,9 @@
 # scReadSim source code
 The source code for the reproduction of results in "scReadSim: a single-cell RNA-seq and ATAC-seq read simulator".
-We also provide a Python-based implementation for the convenience of the community.
+
+## Software scReadSim
+We provide a Python-based implementation for the convenience of the community. For tutorials and other details, check [our website](http://screadsim.readthedocs.io/).
+
 
 ## Usage instructions
 
@@ -109,3 +112,8 @@ Folder `Verification`
 |`Fig2hiS10S14S15_ATAC_VerifyRead_TSS_ProcessPeakBed_20221130.sh`|Figs. 2hi, S10, S14 and S15 run peak calling tools| 
 |`Fig2hiS10_ATAC_VerifyRead_TSS_MakePlot_Nversion_20230316.R`|Figs. 2hi and S10|
 |`FigS14S15_TSS_Intervene_upset_logTransformation_20221009.R`|Figs. S14 and S15| 
+
+
+## License
+This pacakge is licensed under the terms
+of the **MIT License**.
